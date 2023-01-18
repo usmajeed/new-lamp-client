@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6564a702-b835-413c-ab53-8eb94cb6b825" name="Default Changelist" comment="initial;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1h33Dgfz7FNHqoFBB4aCpXLDY5f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/usman/Documents/Pixel-Art-main/src/images/controls&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images/controls" />
+      <recent name="D:\Software\XAMPP\htdocs\Projects\Pixel Art Project\pixel-art\src\Components\Tools" />
+      <recent name="D:\Software\XAMPP\htdocs\Projects\Pixel Art Project\pixel-art\src\redux" />
+      <recent name="D:\Software\XAMPP\htdocs\Projects\Pixel Art Project\pixel-art\src\Components\Tools\Rectangle" />
+      <recent name="D:\Software\XAMPP\htdocs\Projects\Pixel Art Project\pixel-art\src\Components\Tools\Pick" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images/tools" />
+      <recent name="D:\Software\XAMPP\htdocs\Projects\Pixel Art Project\pixel-art\src\redux\reducers" />
+      <recent name="D:\Software\XAMPP\htdocs\Projects\Pixel Art Project\pixel-art\src\Components\Controls\Save" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6564a702-b835-413c-ab53-8eb94cb6b825" name="Default Changelist" comment="" />
+      <created>1599225830679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599225830679</updated>
+      <workItem from="1599225832132" duration="15000" />
+      <workItem from="1599310568758" duration="2195000" />
+      <workItem from="1599356439661" duration="185000" />
+      <workItem from="1599464799765" duration="15404000" />
+      <workItem from="1599525522400" duration="8266000" />
+      <workItem from="1599699071710" duration="7037000" />
+      <workItem from="1610969962335" duration="2842000" />
+      <workItem from="1610980834685" duration="11060000" />
+      <workItem from="1611033287705" duration="7560000" />
+      <workItem from="1611040873485" duration="24000" />
+      <workItem from="1611041139330" duration="285000" />
+      <workItem from="1611041477170" duration="1188000" />
+      <workItem from="1611043478246" duration="99000" />
+      <workItem from="1611044680470" duration="390000" />
+      <workItem from="1611051328804" duration="30570000" />
+      <workItem from="1611128126849" duration="324000" />
+      <workItem from="1611128460411" duration="9000" />
+      <workItem from="1611128538702" duration="1185000" />
+      <workItem from="1611129773729" duration="1513000" />
+      <workItem from="1673957313422" duration="821000" />
+      <workItem from="1673958404507" duration="15501000" />
+      <workItem from="1673976955803" duration="2000" />
+      <workItem from="1673998798913" duration="13670000" />
+      <workItem from="1674055796268" duration="20178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
